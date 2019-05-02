@@ -33,7 +33,3 @@ def test_transport_4():
     vel = [[1, 1], [-1, -1]]
     dt = .5
     assert (transport(loc, vel, dt) == np.array([[1.5, 2.5], [10.5, 11.5]])).all()
-
-@pytest.mark.xfail()
-def test_fail():
-    assert False
