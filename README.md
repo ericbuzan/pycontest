@@ -4,7 +4,7 @@
 |:------------------------------------|
 | [![travis][travis-img]][travis-url] |
 
-[travis-img]: https://travis-ci.com/ericbuzan/pycontest.svg?branch=master
+[travis-img]: https://travis-ci.org/ericbuzan/pycontest.svg?branch=master
 [travis-url]: https://travis-ci.org/ericbuzan/pycontest
 
 A collection of exercises for [Pycon 2019](https://us.pycon.org/2019/) 
