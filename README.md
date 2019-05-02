@@ -1,5 +1,11 @@
 # pycontest
 
+| **Build Status**                                                                                                       
+|:------------------------------------|
+| [![travis][travis-img]][travis-url] |
+[travis-img]: https://travis-ci.com/your_github_account/your_repo.svg?branch=master
+[travis-url]: https://travis-ci.com/your_github_account/your_repo
+
 A collection of exercises for [Pycon 2019](https://us.pycon.org/2019/) 
 tutorial [To trust or to test?: Automated testing of scientific projects with pytest](https://us.pycon.org/2019/schedule/presentation/82/)
 
