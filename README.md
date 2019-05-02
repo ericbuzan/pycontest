@@ -3,6 +3,7 @@
 | **Build Status**                                                                                                       
 |:------------------------------------|
 | [![travis][travis-img]][travis-url] |
+
 [travis-img]: https://travis-ci.com/your_github_account/your_repo.svg?branch=master
 [travis-url]: https://travis-ci.com/your_github_account/your_repo
 
